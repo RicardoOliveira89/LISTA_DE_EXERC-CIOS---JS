@@ -1,1 +1,1 @@
-# JavaScript-issues-resolutions
+# Resolvendo lista de exercícios com Javascript
